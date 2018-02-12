@@ -18,6 +18,7 @@ public class Test1 {
         System.out.println(String.format("after db1:%s",bd1.toString()));
         System.out.println(bd1.compareTo(bd2));
         System.out.println("ssss");
+        System.out.println("bbbbb");
     }
 
 }
