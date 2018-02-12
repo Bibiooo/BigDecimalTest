@@ -2,6 +2,8 @@ package com.kayak.BigDecimalTest;
 
 import java.math.BigDecimal;
 
+import static javax.swing.text.html.HTML.Tag.HEAD;
+
 /**
  * Created by asus on 2018/2/11.
  */
@@ -17,6 +19,7 @@ public class Test1 {
         System.out.println(bd1.compareTo(bd2));
         System.out.println("hello");
         System.out.println("hello");
+
     }
 
 }
