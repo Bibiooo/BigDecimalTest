@@ -15,6 +15,7 @@ public class Test1 {
         bd1 = bd1.divide(bd2,3,BigDecimal.ROUND_HALF_EVEN);
         System.out.println(String.format("after db1:%s",bd1.toString()));
         System.out.println(bd1.compareTo(bd2));
+        System.out.println("hello");
     }
 
 }
